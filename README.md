@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AasifFiraz
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me aasiffiraz178@gmail.com
 
 <!---
 AasifFiraz/AasifFiraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
