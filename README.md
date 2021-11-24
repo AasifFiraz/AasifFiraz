@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AasifFiraz
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in becoming a full Stack Developer
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me aasiffiraz178@gmail.com
 
 <!---
